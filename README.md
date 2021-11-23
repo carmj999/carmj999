@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carmj999
+- 👋 Hi, I’m @carmj999 or oka carm
 - 👀 I’m interested in learning more about Github
 - 🌱 I’m currently learning so many things
 - 💞️ I’m looking to collaborate on developer workflows
